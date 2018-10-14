@@ -1,2 +1,5 @@
-# Apna-Broker
-A Web App to predict rent of house.
+# Apna-Broker-API
+
+A machine learning based API to predict house prices.
+
+Used as backend for [Apna Broker](https://github.com/EvilCoders/Apna-Broker).
